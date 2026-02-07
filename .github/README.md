@@ -1,8 +1,4 @@
-# FMHY
 
-![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
-
-<p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
 ## 📖 Wiki
 
@@ -29,8 +25,3 @@ Here are a few ways you can get involved:
 * You can send us stuff directly via [💬 Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
 * To help us find new sites, check out the lists of links in [site hunting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites/).
 
-## 🔔 Follow
-
-<p>
-  <a href="https://github.com/fmhy/FMHY/wiki/FMHY-Discord"><img width="30px" src="./assets/discord.svg" alt="Discord"></a>&nbsp;&nbsp;<a href="https://github.com/fmhy"><img width="30px" src="./assets/github.svg" alt="GitHub"></a>
-</p>
